@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm a third-year college student studying electronics and telecommunications engineering. I have 1-2 years of experience as a frontend developer and specialize in working with the MERN stack. Currently, I'm honing my skills in advanced backend development and exploring new styling techniques like Tailwind CSS. I'm also looking for some help with hosting my projects. In my free time, I enjoy watching anime and exploring new technologies in the software development industry.
+Hello, I'm a Final-year college student studying electronics and telecommunications engineering. I have 1-2 years of experience as a frontend developer and specialize in working with the MERN stack. Currently, I'm honing my skills in advanced backend development and exploring new styling techniques like Tailwind CSS. I'm also looking for some help with hosting my projects. In my free time, I enjoy watching anime and exploring new technologies in the software development industry.
 
 
 ## 🌐 Socials:
