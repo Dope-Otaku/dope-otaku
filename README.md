@@ -1,4 +1,4 @@
-[<h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
+<h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
@@ -70,7 +70,10 @@
 <br />
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SouvikKumarHalder)
+[<img align="center" alt="SouvikHalder" | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SouvikKumarHalder) -->
+
 [<img align="center" alt="SouvikHalder | Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-512.png" />][twitter]
 [<img align="center" alt="SouvikHalder | Instagram" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" />][instagram]
 [<img align="center" alt="SouvikHalder | Gmail" width="50px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-512.png"/>][gmail]
@@ -85,9 +88,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dope-Otaku&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=RohiniRG&label=PROFILE+VIEWS&style=flat-square&color=blue")
-</p>   -->
 <p align="center">
    <img src="https://visitcount.itsvg.in/api?id=Dope-Otaku&icon=0&color=0")
 </p>
@@ -101,4 +101,3 @@
 [gmail]: souvikhalder68@gmail.com
 
 <br />
-](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
