@@ -55,11 +55,11 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;&nbsp; 
   <img src="(https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase"/>&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
 
-<img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>&nbsp;&nbsp;&nbsp; -->
 
 </p>
 
@@ -70,7 +70,7 @@
 <br />
 <br>
 
-[<img align="center" alt="SouvikHalder" | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
+[<img align="center" alt="SouvikHalder | Linkedln" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SouvikKumarHalder) -->
 
