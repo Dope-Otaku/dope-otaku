@@ -5,6 +5,8 @@
      width="400" height="400"
      src="https://imgur.com/ZLP9Kwg">
 
+[Imgur](https://imgur.com/ZLP9Kwg)
+
 <h1 align="center">About me! 🚀</h1>
 
 <!-- You can just ccopy it i have also done the same 😉 -->
