@@ -2,7 +2,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://i.imgur.com/iigzIrT.png">
+     src="https://imgur.com/a/mz1w8AR">
 
 <h1 align="center">About me! 🚀</h1>
 
@@ -86,16 +86,17 @@
 
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dope-Otaku&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 
+![Top Stats](https://github-readme-streak-stats.herokuapp.com/?user=Dope-Otaku&theme=midnight-purple&hide_border=false)<br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dope-Otaku&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <p align="center">
-   <img src="https://visitcount.itsvg.in/api?id=Dope-Otaku&icon=0&color=0")
+   <img src="https://visitcount.itsvg.in/api?id=Dope-Otaku&icon=0&color=0"></img>
 </p>
 
+
 [linkedin]: https://linkedin.com/in/SouvikKumarHalder
-
 <!-- [twitter]: https://twitter.com/rooohini_ -->
-
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/codertheshy/
 [gmail]: souvikhalder68@gmail.com
