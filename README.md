@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
+[<h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
 
 <img class="fit-picture" align="right"
      width="400" height="400"
@@ -101,3 +101,4 @@
 [gmail]: souvikhalder68@gmail.com
 
 <br />
+](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
