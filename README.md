@@ -1,8 +1,8 @@
 <h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
 
-<img class="fit-picture" align="right"
-     width="400" height="400"
-     src="https://imgur.com/a/mz1w8AR">
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/mz1w8AR"  ><a class="fit-picture" align="right"
+     width="400" height="400" href="//imgur.com/a/mz1w8AR">thumbs up buddy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h1 align="center">About me! 🚀</h1>
 
