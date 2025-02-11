@@ -1,9 +1,15 @@
 <h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
 
 
-<img class="fit-picture" align="right"
+<!--<img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://imgur.com/a/9mKBE81">
+     src="https://imgur.com/a/9mKBE81">-->
+
+<video class="fit-picture" align="right"
+     width="400" height="400"
+     src="https://imgur.com/a/9mKBE81"
+     controls>
+</video>
 
 
 
