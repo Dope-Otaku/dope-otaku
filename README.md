@@ -1,15 +1,15 @@
 <h1 align="center">Hi there! I'm Souvik Halder 👋 </h1>
 
 
-<!--<img class="fit-picture" align="right"
+<img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://imgur.com/a/9mKBE81">-->
+     src="https://imgur.com/a/IIb6vcf">
 
-<video class="fit-picture" align="right"
+<!--<video class="fit-picture" align="right"
      width="400" height="400"
      src="https://imgur.com/a/9mKBE81"
      controls>
-</video>
+</video>-->
 
 
 
@@ -19,7 +19,7 @@
 
 <h3>
   
-- 🔭 I’m currently a Software Engineering Intern
+- 🔭 I’m currently a Senior Data Analyst
 - 🌱 I’m currently learning Microservice architecture and Django
 - 👯 I’m looking to collaborate on projects based on React, FastAPI, NextJs, Flask and Django!
 - 💬 Ask me about anything Python and Nextjs!  
