@@ -3,7 +3,7 @@
 
 <img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://imgur.com/ZLP9Kwg.png">
+     src="https://imgur.com/a/9mKBE81">
 
 
 
