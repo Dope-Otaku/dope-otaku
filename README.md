@@ -96,7 +96,7 @@
 <br />
 <br>
 
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dope-Otaku&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
+![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dope-Otaku&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=false)
 
 ![Top Stats](https://nirzak-streak-stats.vercel.app/?user=Dope-Otaku&theme=shades-of-purple&hide_border=false)<br/>
 
