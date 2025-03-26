@@ -3,7 +3,7 @@
 
 <!--<img class="fit-picture" align="right"
      width="400" height="400"
-     src="https://imgur.com/a/IIb6cf">-->
+     src="https://imgur.com/a/II6cf">-->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e55ef37c-b08f-47ec-a407-d3b2d8eaf861" width="400" alt="Image">
 </p>
