@@ -8,7 +8,8 @@
   <img src="https://github.com/user-attachments/assets/e55ef37c-b08f-47ec-a407-d3b2d8eaf861" width="400" alt="Image">
 </p>
 
-<!--<video class="fit-picture" align="right"
+<!--<video class="fit-picture" align="
+ight"
      width="400" height"00"
      src="https://imgur.com/a/9mKBE81"
      controls>
