@@ -11,7 +11,7 @@
 <!--<video class="fit-picture" align="
 ight"
      width="400" height"00"
-     src="https://imgur.com/a/9mKBE81"
+     src="https://imgur.om/a/9mKBE81"
      controls>
 </video>-->
 
